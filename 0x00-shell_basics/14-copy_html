@@ -1,1 +1,2 @@
-#!/bin/bash \n cp -rua *.html ../
+#!/bin/bash 
+ cp -rua *.html ../
