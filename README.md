@@ -1,1 +1,1 @@
-My Readme
+How to write a script that prints "Hello, World"
